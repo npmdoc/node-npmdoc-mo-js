@@ -1,4 +1,7 @@
-# api documentation for  [mo-js (v0.288.1)](https://github.com/legomushroom/mojs)  [![npm package](https://img.shields.io/npm/v/npmdoc-mo-js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-mo-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-mo-js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-mo-js)
+# npmdoc-mo-js
+
+#### basic api documentation for  [mo-js (v0.288.1)](https://github.com/legomushroom/mojs)  [![npm package](https://img.shields.io/npm/v/npmdoc-mo-js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-mo-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-mo-js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-mo-js)
+
 #### motion graphics toolbelt for the web
 
 [![NPM](https://nodei.co/npm/mo-js.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/mo-js)
@@ -119,7 +122,8 @@
         "build": "",
         "test": "karma start --single-run"
     },
-    "version": "0.288.1"
+    "version": "0.288.1",
+    "bin": {}
 }
 ```
 
